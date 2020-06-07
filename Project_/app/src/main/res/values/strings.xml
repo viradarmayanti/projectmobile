@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Project_</string>
+
+    <string-array name="data_list">
+        <item>Alaskan Malamute</item>
+        <item>Akita</item>
+        <item>Belgian Malinois</item>
+        <item>Doberman Pinscher</item>
+        <item>Golden Retriever</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Alaskan malamute merupakan salah satu jenis anjing yang berasa dari Amerika Serikat yang banyak digunakan sebagai penarik kereta luncur, terutama pada saat musim dingin.</item>
+        <item>Akita merupakan salah satu jenis anjing ras yang berasal dari Negara Jepang yang banyak dimanfaatkan untuk menemani pemiliknya berburu.</item>
+        <item>Belgian Malinois merupakan salah satu jenis anjing yang berasal dari Negara Belgia yang memiliki ciri mirip seperti German Sheperd.</item>
+        <item>Doberman Pinscher merupakan anjing yang dikenal dengan bentuk tubuhnya yang kekar dan juga berotot, kuat dan juga tegap serta gagah.</item>
+        <item>Golden Retriever merupakan jenis anjing serbaguna, yang banyak digunakan untuk berbagai kebutuhan, seprti penyelamatan, pendeteksi obat-obatan dan juga anjing penyelamat.</item>
+    </string-array>
+
+    <array name="data_gambar">
+        <item>@drawable/alaskan_malamute</item>
+        <item>@drawable/akita</item>
+        <item>@drawable/belgian_malinois</item>
+        <item>@drawable/doberman_pinscher</item>
+        <item>@drawable/golden_retriever</item>
+    </array>
+
+    <string-array name="data_sejarah">
+        <item>Pada tahun 1920, jenis anjing Alaskan Malamute ini sudah mulai dikembangkan sebagai salah satu jenis anjing tertentu. Pada pada tahun 1935, keberadaan anjing ini mulai diakui oleh American Kennel Club dan juga dipamerkan sebagai anjing pertunjukan.</item>
+        <item>Dua ekor anjing akita milik Helen Keller adalah anjing akita pertama yang hidup di Amerika. Setelah Perang Dunia ke-2, tentara-tentara Amerika membawa pulang beberapa ekor anjing akita.</item>
+        <item>Belgian Malinois pertama kali dibiakkan di wilayah barat laut di Belgia di sekitar kota bernama Malines. Mereka diimpor ke Amerika Serikat pada tahun 1911. Pada awal 1900-an, departemen kepolisian New York City mulai menggunakan anjing ini untuk membantu operasi.</item>
+        <item>Anjing Doberman pinsher dibiakkan di Jerman pada tahun 1860-an, diduga adalah persilangan diantara old shorthaired shepherd, german pinscher, Rottweiler, beauceron, Manchester terrier dan greyhound. Pencipta dari persilangan tersebut adalah kolektor pajak Jerman bernama Louis Dobermann.</item>
+        <item>Lord Tweedmouth melakukan sebuah eksperimen yaitu dengan mengawinkan antara anjing jenis water spaniel dengan anjing yellow retriever. hasil perkawinan silang antara kedua jenis anjing tersebut kemudian lahirlah 3 ekor anak anjing yang semua bulunya berwarna kuning yang memunculkan anjing jenis golden retriever.</item>
+    </string-array>
+
+    <string-array name="data_ciri">
+        <item>  1. Tubuh yang sangat gagah dan juga atletis \n
+                2. Memiliki kepala yang bundar dan lebar \n
+                3. Memiliki cakar mirip kucing \n
+                4. Bulu halus dan lembut \n
+                5. Kaki jenjang dan besar \n
+                6. Memiliki ekor melengkung dan kriting</item>
+        <item>  1. Bertubuh besar, tegap, dan kuat \n
+                2. Terbiasa hidup di tempat-tempat dingin, anjing akita memiliki bulu berlapis \n
+                3. Anjing Akita Jepang memiliki warna bulu kunning-coklat-putih, sedangkan American Akita memiliki bulu kuning-coklat-putih-hitam</item>
+        <item>  1. Tingginya sekita 60-66cm untuk pejantan dan 55-60cm untuk betina \n
+                2. Anjing Belgian Malinois berwarna mahogany, ada juga yang berwarna coklat kekuningan \n
+                3. Memiliki lapisan bulu ganda pendek, rata dan lurus</item>
+        <item>  1. Sangat antusias, super energik dengan kekuatan dan stamina luar biasa \n
+                2. Memiliki tubuh berukuran sedang, tegap, dan berotot \n
+                3. Memiliki tinggi : jantan 66-71, betina 61-66 \n
+                4. Mata berbentuk almod dan warnanya memiliki berbagai nuansa coklat</item>
+        <item>  1. Sangat bersahabat, setia dan sangat menyayangi pemiliknya \n
+                2. Aktif serta bertenaga dan tidak agresif kepada anjing lainnya \n
+                3. Memiliki bulu yang lurus dan panjang, tahan air dan tebal \n
+                4. Mempunyai ukuran telinga yang sedang</item>
+    </string-array>
+</resources>
